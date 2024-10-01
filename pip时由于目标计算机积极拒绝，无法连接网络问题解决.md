@@ -26,7 +26,7 @@ ERROR: No matching distribution found for pygame
 -   更新 pip
 -   使用镜像网站
 
-**结果：**反馈依旧如上
+**结果：** 反馈依旧如上
 ### 最终解决方案
 
 （以下回答来自 ChatGPT）
@@ -35,5 +35,5 @@ ERROR: No matching distribution found for pygame
 ```bash
 pip config unset global.proxy
 ```
-**结果：**再次尝试后执行成功
+**结果：** 再次尝试后执行成功
 
